@@ -1,10 +1,8 @@
 ﻿#NoEnv
 #SingleInstance Force
-#NoEnv
 #MaxHotkeysPerInterval 99000000
 #HotkeyInterval 99000000
 #KeyHistory 0
-#SingleInstance force
 ListLines Off
 Process, Priority, , High
 SetBatchLines, -1
